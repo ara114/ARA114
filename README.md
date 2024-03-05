@@ -5,14 +5,11 @@
 <!-- [![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)] -->
 
 
-<img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
-
-<h1 align="center">Hi 👋, I'm Sheikh Rasel Ahmed </h1>
-<h3 align="center">Data Science || Machine Learning || Deep Learning || Artificial Intelligence Enthusiast From Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Areesha Rizwan </h1>
+<h3 align="center">Data Science || Machine Learning || Deep Learning || Artificial Intelligence Enthusiast From Pakistan</h3>
 </br>
-<h3>❤ Views and Followers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="rasel1435" /> <img src="https://img.shields.io/github/followers/Rasel1435?label=Followers&style=social" alt="rasel1435" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rasel1435&label=Profile%20views&color=0e75b6&style=flat" alt="ara114" /> <img src="https://img.shields.io/github/followers/ara114?label=Followers&style=social" alt="ara114" /></p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=rasel1435" alt="rasel1435" /></a> </p>
 
@@ -23,25 +20,15 @@
 - 🔭 I'm currently working on *Generative Artificial Intelligence (AI Engineer)*
 - 🌱 I’m currently learning *DL || AI*
 
-- 👯 I'm looking to collaborate on [Linkedin](https://www.linkedin.com/in/shekhnirob1)
+- 👯 I'm looking to collaborate on [Linkedin]((https://www.linkedin.com/in/areesha-rizwan-arain/))
 
 - 🤝 I’m looking for help with *Artificial Intelligence*
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Rasel1435)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ara114)
   
-- 🥉 My [leetcode](https://leetcode.com/shekh_rase)
-  
-- 🏆 My [Kaggle](https://www.kaggle.com/sheikhraselahmed)
-
-- 👀 My [YouTube](https://www.youtube.com/@codewithsheikhrasel)
-
-- 💬 You can also contact me on [Facebook](https://www.facebook.com/rasel1435) 
-
-- 📝 I regularly write articles on [Twitter](https://twitter.com/Sheikh_Rasel143)
+- 🏆 My [Kaggle]((https://www.kaggle.com/ara114))
 
 - 💬 Ask me about *DS || ML || DL || AI*
-
-- 📫 How to reach me **https://about.me/ahmednirob**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/shekhnirob1)
 
